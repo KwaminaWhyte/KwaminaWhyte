@@ -128,6 +128,29 @@ A fast, lightweight **deployment engine** built in Rust. Single-binary PaaS for 
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### [Expo eSIM Utils](https://github.com/KwaminaWhyte/expo-esim-utils)
+
+A native **eSIM management library** for Expo and React Native. Detect eSIM support, retrieve active cellular plans, and install eSIM profiles — no carrier entitlements required.
+
+**Features:**
+- eSIM detection (iOS 12+, Android 9+)
+- Active cellular plan listing
+- Profile installation (iOS 17.4+, Android 9+)
+- Accessible to MVNOs & eSIM resellers
+- Works with Expo SDK 50+
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+</td>
+<td width="50%">
+</td>
+</tr>
 </table>
 
 ---
